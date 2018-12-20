@@ -1,13 +1,13 @@
 # Site settings
 title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
-baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://yourdomain.com" # the base hostname & protocol for your site
+description:  "This is my description."
+baseurl:      "block-log" # the subpath of your site, e.g. /blog/
+url:          "http://alextall.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
+github:       "alextall"
+twitter:      "alextall"
 email:        "mail@example.com"
-disqus-id:    "example" #leave blank if you dont want comments.
+disqus-id:    "" #leave blank if you dont want comments.
 
 # Build settings
 markdown:     kramdown
